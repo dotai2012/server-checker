@@ -1,0 +1,13 @@
+{
+  "name": "server-checker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "fs-extra": "^7.0.0",
+    "lodash": "^4.17.11",
+    "socket.io": "^2.1.1"
+  }
+}
